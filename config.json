@@ -6,5 +6,5 @@
   "BASE_URL_EVENT": "",
   "API_URL_GAME": "https://uk88.top/api/v1",
   "GIT_CONFIG_URL": "",
-  "ENABLE_FAKE_GAME": false
+  "ENABLE_FAKE_GAME": true
 }
